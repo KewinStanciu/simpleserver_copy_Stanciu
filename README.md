@@ -1,3 +1,11 @@
+
+
+Hi
+
+todays date : 03.12.2024
+
+Staniu Kewin
+
 # Simple install
 
 Steps to reproduce:
@@ -10,3 +18,4 @@ Steps to reproduce:
 # Deliverable
 
 Send a screenshot of you, using the simple_client where you tried some input with your name.
+
